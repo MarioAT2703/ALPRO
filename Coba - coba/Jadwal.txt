@@ -1,0 +1,15 @@
+Nama: mario
+NIM: 6422104
+Prodi: kjdas
+Keterangan: kasjsaf
+Jangka Waktu: 123
+Nama: mario
+NIM: 6422104
+Prodi: Informatika
+Keterangan: gabut
+Jangka Waktu: 90
+Nama: mario
+NIM: 6422104
+Prodi: Informatika
+Keterangan: untuk ibu suliasih
+Jangka Waktu: 3
